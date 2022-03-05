@@ -23,4 +23,4 @@ Afterwards imported json
 and save stock.txt details to stock.json
 
 Credits
-© @kusinghal | 2021
+©kusinghal | 2021
